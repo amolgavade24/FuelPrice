@@ -22,5 +22,21 @@
         "fuelDiff": 0.0,
         "fuelType": "Petrol",
         "fuelPrice": 82.42
+    },
+    {
+        "stateName": "Andaman and Nicobar Islands",
+        "cityName": "Port Blair",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": 0.0,
+        "fuelType": "AutoGas",
+        "fuelPrice": 82.42
+    },
+    {
+        "stateName": "Andaman and Nicobar Islands",
+        "cityName": "Port Blair",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": 0.0,
+        "fuelType": "CNG",
+        "fuelPrice": 82.42
     }
 ]
