@@ -1,5 +1,5 @@
 [
-     {
+   {
         "stateName": "Andaman and Nicobar Islands",
         "cityName": "Port Blair",
         "fuelDate": "2024-07-27",
@@ -24,19 +24,76 @@
         "fuelPrice": 82.42
     },
     {
-        "stateName": "Andaman and Nicobar Islands",
-        "cityName": "Port Blair",
+        "stateName": "Andhra Pradesh",
+        "cityName": "Vizianagaram",
         "fuelDate": "2024-07-27",
         "fuelDiff": 0.0,
         "fuelType": "AutoGas",
-        "fuelPrice": 82.42
+        "fuelPrice": 33.8
     },
     {
-        "stateName": "Andaman and Nicobar Islands",
-        "cityName": "Port Blair",
+        "stateName": "Andhra Pradesh",
+        "cityName": "Vizag",
         "fuelDate": "2024-07-27",
         "fuelDiff": 0.0,
+        "fuelType": "AutoGas",
+        "fuelPrice": 33.37
+    },
+    {
+        "stateName": "Andhra Pradesh",
+        "cityName": "Hyderabad",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": -5.94,
+        "fuelType": "AutoGas",
+        "fuelPrice": 36.0
+    },
+    {
+        "stateName": "Andhra Pradesh",
+        "cityName": "Chittoor",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": 0.0,
+        "fuelType": "AutoGas",
+        "fuelPrice": 40.8
+    },
+    {
+        "stateName": "Andhra Pradesh",
+        "cityName": "Vijayawada",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": 19.25,
         "fuelType": "CNG",
-        "fuelPrice": 82.42
-    }
+        "fuelPrice": 94.0
+    },
+    {
+        "stateName": "Andhra Pradesh",
+        "cityName": "Hyderabad",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": 2.0,
+        "fuelType": "CNG",
+        "fuelPrice": 96.0
+    },
+    {
+        "stateName": "Andhra Pradesh",
+        "cityName": "Vizianagaram",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": -100.0,
+        "fuelType": "LPG",
+        "fuelPrice": 812.0
+    },
+    {
+        "stateName": "Andhra Pradesh",
+        "cityName": "Vizag",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": -100.0,
+        "fuelType": "LPG",
+        "fuelPrice": 811.0
+    },
+    {
+        "stateName": "Andhra Pradesh",
+        "cityName": "Vijayawada",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": 18.0,
+        "fuelType": "LPG",
+        "fuelPrice": 844.5
+    }  
+   
 ]
