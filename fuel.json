@@ -6950,15 +6950,7 @@
         "fuelDiff": 0.0,
         "fuelType": "AutoGas",
         "fuelPrice": 37.33
-    },
-    {
-        "stateName": "Maharashtra",
-        "cityName": "Pune",
-        "fuelDate": "2024-07-27",
-        "fuelDiff": -15.1,
-        "fuelType": "AutoGas",
-        "fuelPrice": 38.26
-    },
+    },    
     {
         "stateName": "Maharashtra",
         "cityName": "Pimpri",
@@ -7070,15 +7062,7 @@
         "fuelDiff": -8.0,
         "fuelType": "CNG",
         "fuelPrice": 79.0
-    },
-    {
-        "stateName": "Maharashtra",
-        "cityName": "Pune",
-        "fuelDate": "2024-07-27",
-        "fuelDiff": 2.0,
-        "fuelType": "CNG",
-        "fuelPrice": 88.0
-    },
+    },    
     {
         "stateName": "Maharashtra",
         "cityName": "Pimpri",
@@ -7182,14 +7166,6 @@
         "fuelDiff": 0.0,
         "fuelType": "LPG",
         "fuelPrice": 817.5
-    },
-    {
-        "stateName": "Maharashtra",
-        "cityName": "Pune",
-        "fuelDate": "2024-07-27",
-        "fuelDiff": 0.0,
-        "fuelType": "LPG",
-        "fuelPrice": 806.0
     },
     {
         "stateName": "Maharashtra",
@@ -7438,15 +7414,7 @@
         "fuelDiff": 0.11,
         "fuelType": "Diesel",
         "fuelPrice": 92.07
-    },
-    {
-        "stateName": "Maharashtra",
-        "cityName": "Pune",
-        "fuelDate": "2024-07-27",
-        "fuelDiff": 0.53,
-        "fuelType": "Diesel",
-        "fuelPrice": 90.82
-    },
+    },    
     {
         "stateName": "Maharashtra",
         "cityName": "Pimpri",
@@ -7710,14 +7678,6 @@
         "fuelDiff": 0.05,
         "fuelType": "Petrol",
         "fuelPrice": 105.57
-    },
-    {
-        "stateName": "Maharashtra",
-        "cityName": "Pune",
-        "fuelDate": "2024-07-27",
-        "fuelDiff": 0.54,
-        "fuelType": "Petrol",
-        "fuelPrice": 104.3
     },
     {
         "stateName": "Maharashtra",
