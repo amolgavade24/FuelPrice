@@ -1,11 +1,26 @@
 [
      {
-        "fuelId": 285613,
-        "fuelType": "LPG",
+        "stateName": "Andaman and Nicobar Islands",
         "cityName": "Port Blair",
-        "fuelPrice": 879.0,
+        "fuelDate": "2024-07-27",
         "fuelDiff": 0.0,
-        "fuelDate": "2024-07-24",
-        "stateName": "Andaman and Nicobar Islands"
+        "fuelType": "LPG",
+        "fuelPrice": 879.0
+    },
+    {
+        "stateName": "Andaman and Nicobar Islands",
+        "cityName": "Port Blair",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": 0.0,
+        "fuelType": "Diesel",
+        "fuelPrice": 78.01
+    },
+    {
+        "stateName": "Andaman and Nicobar Islands",
+        "cityName": "Port Blair",
+        "fuelDate": "2024-07-27",
+        "fuelDiff": 0.0,
+        "fuelType": "Petrol",
+        "fuelPrice": 82.42
     }
 ]
