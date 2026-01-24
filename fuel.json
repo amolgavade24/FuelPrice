@@ -1,5 +1,4 @@
-[
-    [
+{
         {
             "fuelId": 747177,
             "fuelType": "Petrol",
@@ -19160,7 +19159,4 @@
             "fuelDate": "2026-01-23",
             "stateName": "West Bengal"
         }
-    ]
-]
-
-
+}
