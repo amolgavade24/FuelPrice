@@ -1,5 +1,4 @@
-{
-   "fueldetails": [     {
+[     {
             "fuelId": 747177,
             "fuelType": "Petrol",
             "cityName": "Port Blair",
@@ -19159,8 +19158,9 @@
             "fuelDate": "2026-01-30",
             "stateName": "West Bengal"
         }
-                ]
-}
+]
+
+
 
 
 
