@@ -1,4 +1,4 @@
-{
+[{
             "fuelId": 747177,
             "fuelType": "Petrol",
             "cityName": "Port Blair",
@@ -6,12 +6,4 @@
             "fuelDiff": 0.0,
             "fuelDate": "2026-04-02",
             "stateName": "Andaman and Nicobar Islands"
-        }
-
-
-
-
-
-
-
-
+        }]
